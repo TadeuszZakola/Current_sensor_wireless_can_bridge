@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "INA290A2IDCKR") (type "KiCad") (uri "${KIPRJMOD}/Include/Symbol/INA290A2IDCKR.kicad_sym") (options "") (descr ""))
+	(lib (name "PR24-12V-900-1A") (type "KiCad") (uri "${KIPRJMOD}/Include/Symbol/PR24-12V-900-1A.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP32-C3-MINI-1U-H4X") (type "KiCad") (uri "${KIPRJMOD}/Include/Symbol/ESP32-C3-MINI-1U-H4X.kicad_sym") (options "") (descr ""))
+)
